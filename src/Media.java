@@ -74,7 +74,7 @@ public class Media {
     }
     //metoden er påbegyndt til at finde og printe filerne
     public void logToConsol() {
-        File file = new File(Main.MEDIA_MAPPE);
-                //if
+        System.out.println(name + "media");
+
     }
 }

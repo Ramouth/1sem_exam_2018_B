@@ -12,6 +12,8 @@ public class Test {
         System.out.println(m1.toString());
 
         // Her kommer din kode
+        Artikel a1 = new Artikel("Ole", "Rachid");
+        a1.logToConsol();
 
     }
 }
